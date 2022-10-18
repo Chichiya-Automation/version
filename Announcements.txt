@@ -1,6 +1,17 @@
 Welcome to Chichiya Automation Auto Cook 
 
-The latest version is 4.01
+The latest version is 4.20
+Whats new:
+ - Remake Arroz Con Pollo now supports up to 47 ovens. (Used to be 17)
+ - Added Trawler's Man Recipe
+ - Added Poop Pie Recipe
+ - Items in About Tab moved to Settings Tab
+ - Added current version in settings tab
+
+If you find any more bugs, please let me know.
+
+
+version 4.01
 Whats new:
 - v2 is now officially called Standard Auto Cook and v3 is now officially called Premium Auto Cook.
 - Standard and Premium Auto Cook is now together in 1 app.
@@ -10,7 +21,6 @@ Whats new:
 - Profit Calculator.
 - You can now get your PC UUID in About tab.
 
-If you find any more bugs, please let me know.
 
 version 3.4.0
 Whats New:
