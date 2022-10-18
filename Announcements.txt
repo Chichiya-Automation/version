@@ -2,11 +2,13 @@ Welcome to Chichiya Automation Auto Cook
 
 The latest version is 4.20
 Whats new:
+ - New feature: Cursor changes to hand when hovering to anything clickable.
  - Remake Arroz Con Pollo now supports up to 47 ovens. (Used to be 17)
  - Added Trawler's Man Recipe
  - Added Poop Pie Recipe
  - Items in About Tab moved to Settings Tab
  - Added current version in settings tab
+
 
 If you find any more bugs, please let me know.
 
